@@ -1,11 +1,9 @@
 #include <iostream>
 using namespace std;
 int main() {
- cout << "Student Grade System" << endl;
- cout << "Welcome to our group project!" << endl;
- cout << "\nMAIN MENU" << endl;
- cout << "1. Add Student" << endl;
- cout << "2. View Students" << endl;
- cout << "3. Exit" << endl;
+ cout << "About page" << endl;
+ cout << "Name: Miguel Carlo G. Hernandez" << endl;
+ cout << "Section: TN31" << endl;
+ cout << "The program was developed for CS0053." << endl;
  return 0;
 }
